@@ -2,6 +2,9 @@
   <img src="https://komarev.com/ghpvc/?username=Bogzx&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Bogzx Profile Views" />
 </div>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bogzx&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&card_width=400" alt="Bogzx's Top Languages" />
+  </p>
 ---
 
 ### 👋 Hello there! I'm Bogzx.

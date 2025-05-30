@@ -3,7 +3,8 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bogzx&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&card_width=400" alt="Bogzx's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bogzx&show_icons=true&theme=radical" alt="my github stats" width="420"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bogzx&layout=compact&theme=radical" alt="languages" height="165">
   </p>
 ---
 

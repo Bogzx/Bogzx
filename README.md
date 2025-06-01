@@ -51,7 +51,6 @@ I'm particularly enthusiastic about:
 
 * **GitHub:** [Bogzx](https://github.com/Bogzx)
 * **Discord:** `Bogdanila`
-* _(Feel free to add other links here, like LinkedIn, Twitter, Portfolio, etc.)_
 
 ---
 <p align="center">

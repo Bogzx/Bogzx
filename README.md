@@ -2,22 +2,10 @@
   <img src="https://komarev.com/ghpvc/?username=Bogzx&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Bogzx Profile Views" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bogzx&show_icons=true&theme=radical" alt="my github stats" width="420"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bogzx&layout=compact&theme=radical" alt="languages" height="165">
-  </p>
----
 
 ### 👋 Hello there! I'm Bogdan.
 
 I'm a developer passionate about building innovative solutions and constantly expanding my skillset. I thrive on challenges and enjoy exploring the ever-evolving world of technology.
-
----
-
-### 🚀 What I'm Currently Up To
-
-* 🌱 Learning **Rust** and building a simple position size calculator.
-* 🤖 Working on a trading bot using **Python**.
 
 ---
 
@@ -28,22 +16,11 @@ Here are some of the technologies and tools I'm proficient in:
 * **Languages:**
     * ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
     * ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    * ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
     * ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 * **Interests & Areas of Focus:**
     * Web3
     * Cryptography
     * Cybersecurity
-
----
-
-### 🔥 My Passions
-
-I'm particularly enthusiastic about:
-
-* Exploring the potential of **Web3** technologies and decentralized applications.
-* Diving deep into the world of **Cryptography** and its applications in securing information.
-* Understanding and contributing to **Cybersecurity** to build safer digital environments.
 
 ---
 

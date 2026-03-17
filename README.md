@@ -14,6 +14,7 @@ I'm a developer passionate about building innovative solutions and constantly ex
 
 * **GitHub:** [Bogzx](https://github.com/Bogzx)
 * **Discord:** `Bogdanila`
+* **Portofolio:** [Website](https://bogdantruta.com)
 
 ---
 <p align="center">

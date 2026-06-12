@@ -14,6 +14,3 @@
 * **Portofolio:** [Website](https://bogdantruta.com)
 
 ---
-<p align="center">
-  <em>Thanks for visiting my profile!</em>
-</p>

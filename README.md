@@ -3,9 +3,6 @@
 </div>
 
 
-### 👋 Hello there!
-
-I'm a developer passionate about building innovative solutions and constantly expanding my skillset. I thrive on challenges and enjoy exploring the ever-evolving world of technology.
 
 ---
 

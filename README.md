@@ -11,6 +11,7 @@
 
 * **GitHub:** [Bogzx](https://github.com/Bogzx)
 * **Discord:** `Bogdanila`
+* **Linkedin:** [Website](https://www.linkedin.com/in/bogdantruta/)
 * **Portofolio:** [Website](https://bogdantruta.com)
 
 ---
